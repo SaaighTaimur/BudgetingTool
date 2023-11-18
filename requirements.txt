@@ -4,4 +4,4 @@ yfinance>=0.2.30
 plotly>=5.17.0
 streamlit_option_menu>=0.3.6
 deta>=1.2.0
-dotenv>=0.0.0
+dotenv
