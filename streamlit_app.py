@@ -206,7 +206,7 @@ if selected == "Data Visualization":
                             fig_expense = go.Figure(data=[go.Bar(x=list(expenses.keys()), y=list(expenses.values()))])
                             st.plotly_chart(fig_expense, use_container_width=True)
                         
-                        ### CREATE A INCOME -> EXPENSE DISTRIBUTION CHART 
+                        ### CREATE A INCOME -> EXPENSE DISTRIBUTION CHART (followed tutorial for this section, but made a few changes)
                         st.subheader("Income -> Expense Distribution Chart")
                         # Combine all income categories with Total Income and all expense categories
                         label = list(incomes.keys()) + ["Total Income"] + list(expenses.keys())
