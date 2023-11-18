@@ -3,4 +3,3 @@ streamlit_lottie>=0.0.5
 plotly>=5.17.0
 streamlit_option_menu>=0.3.6
 deta>=1.2.0
-dotenv>=0.0.5 
