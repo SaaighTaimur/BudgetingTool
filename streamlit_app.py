@@ -58,7 +58,7 @@ with col2:
 
 # Create lists to store income and expense types
 incomes = ["Monthly Salary/Wage", "Other Income"]
-expenses = ["Rent", "Utilities", "Groceries", "Car", "Other Expenses", "Saving"]
+expenses = ["Rent/Mortgage", "Utilities", "Groceries", "Car Payments", "Other Expenses", "Savings"]
 
 # Add dropdown menus to select years and months (only 2023 and 2024 for now)
 years = [datetime.today().year, datetime.today().year + 1]
