@@ -39,6 +39,7 @@ with col1:
     st.write("- 📈 Select the \"Data Entry\" for inputting income and expense values.")
     st.write("- 📉 Select the \"Data Visualization\" for viewing helpful charts relating to your incomes and expenses.")
     st.write("- ⭐ NOTE: This information is stored in a Deta database. You will only be able to visualize data if you have entered it under \"Data Entry\. Furthermore, the correct username will be required, and if none is found, then no data will be displayed.")
+    st.write("- ✨ Also, try to create a unique username so that your information is not easily accessible.")
 
 
 # Define the lottie
